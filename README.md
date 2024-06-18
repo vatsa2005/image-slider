@@ -2,7 +2,9 @@
 
 ## Copy the ImageSlider.js and imageSlider.css and paste it in your React project
 
-## See the App.js for props
+## Props:
+
+- See the App.js for props
 
 ## Dependancies
 ```npm install @mui/icons-material @mui/material @emotion/styled @emotion/react```
